@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-# iris-trainsizesplot.ipynb
-
-
+# iris-trainsizesplot.py
 
 import numpy as np
 import matplotlib.pyplot as plt
